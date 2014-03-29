@@ -1,4 +1,5 @@
 <?php
+
 //http://api.bitcoincharts.com/v1/weighted_prices.json
 //http://ichart.finance.yahoo.com/table.csv?s=GOOG&d=2&e=26&f=2014&g=d&a=7&b=19&c=2004&ignore=.csv
 
